@@ -6,7 +6,7 @@
 **Implementation Language:** C  
 **Target Platform:** Linux / GCC  
 **Document:** D1-01  
-**Version:** 1.1 – Revised Implementation Specification
+**Version:** 1.1 – 
 
 ---
 
